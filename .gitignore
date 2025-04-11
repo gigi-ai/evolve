@@ -1,0 +1,21 @@
+# Ignorar entornos virtuales
+bin/
+conda-meta/
+etc/
+include/
+lib/
+share/
+ssl/
+
+# Ignorar archivos Python compilados
+__pycache__/
+*.pyc
+
+# Ignorar checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Ignorar archivos del sistema
+.DS_Store
+
+# Ignorar archivos de configuración privada
+.env
