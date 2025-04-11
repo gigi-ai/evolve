@@ -74,7 +74,7 @@ Finalmente, en Power BI se construyó un dashboard interactivo con diversas visu
 - Gravedad del accidente por cada distrito en 2024.
 
 
-![Dashboard accidentes](dashboard.gif)
+![dashboard](https://github.com/user-attachments/assets/8eb8a2e1-2832-47cf-80a6-c03fff5ddfe8)
 
 ## Principales Aspectos del Análisis
 
